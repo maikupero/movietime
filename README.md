@@ -1,9 +1,9 @@
 # Movietime
 
 Simple movies app!
-Try it out at [My Github Pages site](maikupero.github.io/movetime/).
+Try it out at [My Github Pages site](maikupero.github.io/movietime/).
 
 Roadmap for things to add:
-- URL for where to watch selected movie.
-- User choose number of items on page / size.
-- Light/dark mode.
+- URL for where to watch selected movie
+- User choose number of items on page / size
+- Light/dark mode
